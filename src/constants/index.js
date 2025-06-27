@@ -38,7 +38,7 @@ export const navLinks = [
   { id: "work", title: "Skills" },
   { id: "ss", title: "Work" },
   { id: "contact", title: "Contact" },
-  // { id: "", title: "My Resume", url: "https://my-cv-three-xi.vercel.app/" },
+  { id: "", title: "My Resume", url: "https://my-cv-three-xi.vercel.app/" },
 ];
 
 
