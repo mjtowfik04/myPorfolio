@@ -35,11 +35,12 @@ import {
 // Navigation
 export const navLinks = [
   { id: "about", title: "About" },
-  { id: "work", title: "skills" },
+  { id: "work", title: "Skills" },
   { id: "ss", title: "Work" },
   { id: "contact", title: "Contact" },
-  { id: "My Resume", title: "My Resume" },
+  { id: "myResume", title: "My Resume", url: "https://my-cv-three-xi.vercel.app/" },
 ];
+
 
 // Services Offered
 const services = [

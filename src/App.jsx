@@ -2,6 +2,7 @@ import { BrowserRouter } from "react-router-dom";
 
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 import SoFooter from "./components/SoFooter";
+import Resme from "./components/Resme";
 
 const App = () => {
   return (
@@ -21,7 +22,6 @@ const App = () => {
           <StarsCanvas />
         </div>
         <SoFooter/>
-      
       </div>
     </BrowserRouter>
   );
