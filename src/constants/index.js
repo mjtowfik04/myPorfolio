@@ -38,7 +38,7 @@ export const navLinks = [
   { id: "work", title: "Skills" },
   { id: "ss", title: "Work" },
   { id: "contact", title: "Contact" },
-  { id: "", title: "My Resume", url: "https://my-cv-three-xi.vercel.app/" },
+  { id: "", title: "My Resume", url: "https://drive.google.com/file/d/1etIpL9CsSTNVqgaD6uKh3VwcjB6Ob1OE/view?usp=sharing" },
 ];
 
 
@@ -167,18 +167,19 @@ const projects = [
     source_code_link: "https://github.com/mjtowfik04/Chat-fonent",
     backend_source_code_link: "https://github.com/mjtowfik04/Chat-backend",
   },
-  // {
-  //   name: "Job IT",
-  //   description:
-  //     "Web app that allows users to search for jobs, view salary estimates, and find listings near their location.",
-  //   tags: [
-  //     { name: "react", color: "blue-text-gradient" },
-  //     { name: "restapi", color: "green-text-gradient" },
-  //     { name: "scss", color: "pink-text-gradient" },
-  //   ],
-  //   image: jobit,
-  //   source_code_link: "https://github.com/",
-  // },
+  {
+    name: "MYshop",
+    description:"MyShopBooks is a responsive online bookstore offering books across various categories.Users can easily browse, search, and order books through a clean and intuitive interface.",
+    tags: [
+      { name: "python(django)", color: "blue-text-gradient" },
+      { name: "supabase", color: "green-text-gradient" },
+      { name: "react", color: "blue-text-gradient" },
+    ],
+    image: jobit,
+    source_code_link: "https://myshopbooks.vercel.app/",
+    backend_source_code_link: "https://github.com/mjtowfik04/PhiMart",
+
+  },
   // {
   //   name: "Trip Guide",
   //   description:

@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Resme() {
-  const pdfUrl = "https://vercel.com/mjtowfiks-projects/my-cv/my-cv.pdf"; // আপনার pdf URL
+  const pdfUrl = "https://drive.google.com/file/d/1etIpL9CsSTNVqgaD6uKh3VwcjB6Ob1OE/view?usp=sharing"; // আপনার pdf URL
 
   return (
     <div className="flex justify-center items-center min-h-screen bg-gray-100">
