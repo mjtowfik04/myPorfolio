@@ -16,7 +16,6 @@ import {
   redux,
   tailwind,
   nodejs,
-  mongodb,
   figma,
   docker,
   meta,
@@ -38,7 +37,7 @@ export const navLinks = [
   { id: "work", title: "Skills" },
   { id: "ss", title: "Work" },
   { id: "contact", title: "Contact" },
-  { id: "", title: "My Resume", url: "https://drive.google.com/file/d/1etIpL9CsSTNVqgaD6uKh3VwcjB6Ob1OE/view?usp=sharing" },
+  { id: "", title: "My Resume", url: "https://drive.google.com/file/d/12eheRcp7cUwwwuyhh0HH7QmvnyUWas8p/view?usp=sharing" },
 ];
 
 
@@ -65,6 +64,7 @@ const technologies = [
   { name: "Git", icon: git },
   { name: "VS Code", icon: cod },
   { name: "Vercel", icon: ver },
+  { name: "Docker", icon: docker },
 ];
 
 // Work Experience
