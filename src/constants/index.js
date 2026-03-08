@@ -51,10 +51,10 @@ const services = [
 
 // Tech Stack
 const technologies = [
-  { name: "HTML 5", icon: html },
-  { name: "CSS 3", icon: css },
+  { name: "HTML", icon: html },
+  { name: "CSS ", icon: css },
   { name: "JavaScript", icon: javascript },
-  { name: "C", icon: c },
+  { name: "c", icon: c },
   { name: "C++", icon: cpp },
   { name: "React JS", icon: reactjs },
   { name: "Tailwind CSS", icon: tailwind },
